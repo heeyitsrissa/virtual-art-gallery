@@ -95,7 +95,7 @@ Your contributions make this project better. If you have an idea for improving P
 
 ## Deployment
 
-This application is deployed on Heroku. You can access it [here](https://virtual-art-gallery-panorama-35035413312c.herokuapp.com/).
+This application is deployed on Heroku. You can access it [here]([https://warm-fortress-83195-da792ddbdccc.herokuapp.com/]).
 
 ## Authors and Acknowledgments
 
